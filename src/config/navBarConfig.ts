@@ -19,27 +19,27 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	];
 
 	// 自定义导航栏链接,并且支持多级菜单
-	links.push({
-		name: "链接",
-		url: "/links/",
-		icon: "material-symbols:link",
+	// links.push({
+	// 	name: "链接",
+	// 	url: "/links/",
+	// 	icon: "material-symbols:link",
 
-		// 子菜单
-		children: [
-			{
-				name: "GitHub",
-				url: "https://github.com/CuteLeaf/Firefly",
-				external: true,
-				icon: "fa6-brands:github",
-			},
-			{
-				name: "Bilibili",
-				url: "https://space.bilibili.com/38932988",
-				external: true,
-				icon: "fa6-brands:bilibili",
-			},
-		],
-	});
+	// 	// 子菜单
+	// 	children: [
+	// 		{
+	// 			name: "GitHub",
+	// 			url: "https://github.com/CuteLeaf/shuaiguoer",
+	// 			external: true,
+	// 			icon: "fa6-brands:github",
+	// 		},
+	// 		{
+	// 			name: "Bilibili",
+	// 			url: "https://space.bilibili.com/118791472",
+	// 			external: true,
+	// 			icon: "fa6-brands:bilibili",
+	// 		},
+	// 	],
+	// });
 
 	// 友链
 	links.push(LinkPreset.Friends);

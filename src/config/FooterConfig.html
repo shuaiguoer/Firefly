@@ -1,1 +1,15 @@
-这里是HTML注入示例，你可以在这个文件中添加自定义的HTML内容
+<!-- 备案号 -->
+<div class="beian">
+  <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备17059518号</a>
+</div>
+
+<!-- 百度统计代码 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?你的ID";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>

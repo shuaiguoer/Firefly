@@ -1,35 +1,46 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **Shuai** 一名以 **Golang** 为主的后端工程师。
+
+日常工作围绕着服务端开发、系统设计以及各种并发与分布式场景，写过不少代码，也踩过不少坑。相比“追新技术”，我更关注东西在真实业务中是否站得住、是否能长期维护。
+
+我并不只写后端。
+在实际项目中也会涉及前端开发，对前后端协作、工程边界和整体体验有自己的理解。所以你可能会在这里看到一些前端相关的技术记录，通常来自真实需求，而不是为了“补全技术栈”。
+
+除了技术，这里也会记录一些关于工作的思考、工具使用、效率实践，以及偶尔的吐槽。
+吐槽并不是发泄情绪，而是对不合理设计和工程问题的另一种复盘方式。
+
+如果这些内容能帮你少踩一个坑，那这篇文章就算完成了它的使命
 
 ## 🛠️ 关于本站
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+这是 **Shuai's Blog**，一个以技术为主线、但不局限于技术的个人博客。
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+### 内容包括
+
+- Golang 后端开发与工程实践  
+- 并发、分布式与系统设计思考  
+- 实际项目中的前端开发经验  
+- 关于工作方式、工具选择与效率的记录  
+- 少量偏离主线的生活分享与吐槽  
+
+本站更注重记录**真实问题与真实结论**，而不是抽象概念或通用模板。  
+观点可能不完美，但都来自实践。
 
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+**🏠我的首页： [https://shuaiguoer.com/](https://shuaiguoer.com/)**
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+**📖 我的博客： [https://blog.shuaiguoer.com](https://blog.shuaiguoer.com/)**
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+::github{repo="shuaiguoer/eye"}
 
 
 ## 📫 联系方式
 
 如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
 
-- 💻 **GitHub**: [CuteLeaf](https://github.com/CuteLeaf)
-- ✉️ **Email**: [xiaye@msn.com](mailto:xiaye@msn.com)
+- 💻 **GitHub**: [Shuai](https://github.com/shuaiguoer)
+- ✉️ **Email**: [ls12345666@qq.com](mailto:ls12345666@qq.com)
 
 ---
 
